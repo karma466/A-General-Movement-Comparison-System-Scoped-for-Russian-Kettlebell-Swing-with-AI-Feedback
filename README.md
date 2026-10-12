@@ -1,0 +1,2 @@
+# A-General-Movement-Comparison-System-Scoped-for-Russian-Kettlebell-Swing-with-AI-Feedback
+A general movement-comparison system using MediaPipe pose estimation and Dynamic Time Warping to compare a performer's movement against a reference and generate plain-language feedback. Built in Python, with an AI feedback layer and AR overlay in Unity planned. Scoped first to the two-handed Russian kettlebell swing as the validation case.
